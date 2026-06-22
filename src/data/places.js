@@ -1,7 +1,7 @@
 const places = [
   {
     id: 1,
-    name: "Tokyo",
+    name: "Ookyo",
     image: "/images/tokyo.jpg",
     short: "The city of technology, anime culture, neon lights, innovation, and endless energy.",
     description:
